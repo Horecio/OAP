@@ -1,0 +1,32 @@
+C:\Users\305-7\source\repos\D_zach_Kabanov\bin\Debug\net5.0\D_zach_Kabanov.exe
+C:\Users\305-7\source\repos\D_zach_Kabanov\bin\Debug\net5.0\D_zach_Kabanov.deps.json
+C:\Users\305-7\source\repos\D_zach_Kabanov\bin\Debug\net5.0\D_zach_Kabanov.runtimeconfig.json
+C:\Users\305-7\source\repos\D_zach_Kabanov\bin\Debug\net5.0\D_zach_Kabanov.runtimeconfig.dev.json
+C:\Users\305-7\source\repos\D_zach_Kabanov\bin\Debug\net5.0\D_zach_Kabanov.dll
+C:\Users\305-7\source\repos\D_zach_Kabanov\bin\Debug\net5.0\ref\D_zach_Kabanov.dll
+C:\Users\305-7\source\repos\D_zach_Kabanov\bin\Debug\net5.0\D_zach_Kabanov.pdb
+C:\Users\305-7\source\repos\D_zach_Kabanov\obj\Debug\net5.0\D_zach_Kabanov.csproj.AssemblyReference.cache
+C:\Users\305-7\source\repos\D_zach_Kabanov\obj\Debug\net5.0\D_zach_Kabanov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-7\source\repos\D_zach_Kabanov\obj\Debug\net5.0\D_zach_Kabanov.AssemblyInfoInputs.cache
+C:\Users\305-7\source\repos\D_zach_Kabanov\obj\Debug\net5.0\D_zach_Kabanov.AssemblyInfo.cs
+C:\Users\305-7\source\repos\D_zach_Kabanov\obj\Debug\net5.0\D_zach_Kabanov.csproj.CoreCompileInputs.cache
+C:\Users\305-7\source\repos\D_zach_Kabanov\obj\Debug\net5.0\D_zach_Kabanov.dll
+C:\Users\305-7\source\repos\D_zach_Kabanov\obj\Debug\net5.0\ref\D_zach_Kabanov.dll
+C:\Users\305-7\source\repos\D_zach_Kabanov\obj\Debug\net5.0\D_zach_Kabanov.pdb
+C:\Users\305-7\source\repos\D_zach_Kabanov\obj\Debug\net5.0\D_zach_Kabanov.genruntimeconfig.cache
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Кабанов Данил\D_zach_Kabanov\bin\Debug\net5.0\D_zach_Kabanov.exe
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Кабанов Данил\D_zach_Kabanov\bin\Debug\net5.0\D_zach_Kabanov.deps.json
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Кабанов Данил\D_zach_Kabanov\bin\Debug\net5.0\D_zach_Kabanov.runtimeconfig.json
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Кабанов Данил\D_zach_Kabanov\bin\Debug\net5.0\D_zach_Kabanov.runtimeconfig.dev.json
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Кабанов Данил\D_zach_Kabanov\bin\Debug\net5.0\D_zach_Kabanov.dll
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Кабанов Данил\D_zach_Kabanov\bin\Debug\net5.0\ref\D_zach_Kabanov.dll
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Кабанов Данил\D_zach_Kabanov\bin\Debug\net5.0\D_zach_Kabanov.pdb
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Кабанов Данил\D_zach_Kabanov\obj\Debug\net5.0\D_zach_Kabanov.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Кабанов Данил\D_zach_Kabanov\obj\Debug\net5.0\D_zach_Kabanov.AssemblyInfoInputs.cache
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Кабанов Данил\D_zach_Kabanov\obj\Debug\net5.0\D_zach_Kabanov.AssemblyInfo.cs
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Кабанов Данил\D_zach_Kabanov\obj\Debug\net5.0\D_zach_Kabanov.csproj.CoreCompileInputs.cache
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Кабанов Данил\D_zach_Kabanov\obj\Debug\net5.0\D_zach_Kabanov.dll
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Кабанов Данил\D_zach_Kabanov\obj\Debug\net5.0\ref\D_zach_Kabanov.dll
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Кабанов Данил\D_zach_Kabanov\obj\Debug\net5.0\D_zach_Kabanov.pdb
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Кабанов Данил\D_zach_Kabanov\obj\Debug\net5.0\D_zach_Kabanov.genruntimeconfig.cache
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Кабанов Данил\D_zach_Kabanov\obj\Debug\net5.0\D_zach_Kabanov.csproj.AssemblyReference.cache

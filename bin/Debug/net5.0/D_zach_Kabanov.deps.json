@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "D_zach_Kabanov/1.0.0": {
+        "runtime": {
+          "D_zach_Kabanov.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D_zach_Kabanov/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
